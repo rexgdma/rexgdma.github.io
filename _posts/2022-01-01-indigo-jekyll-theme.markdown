@@ -1,7 +1,7 @@
 ---
 title: "minimalist jekyll theme"
 layout: post
-date: 2016-02-24 22:44
+date: 2022-01-04 22:44
 image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 tag:

@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Hi, I am Rex MA, love the software.</p>
+<p>Hi, I am Rex MA, love Jackie.</p>
 
-<p>Hi, I am Rex MA, love the software.</p>
+<p>Hi, I am Rex MA, love Jackie.</p>
 
 <h2>Skills</h2>
 
@@ -20,7 +20,7 @@ layout: page
 	<li>Python</li>
 	<li>Algorithm Design</li>
 	<li>Socket NetWork</li>
-	<li>Digital Certificate<li>
+	<li>Digital Certificate</li>
 </ul>
 
 <h2>Projects</h2>
