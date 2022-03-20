@@ -53,7 +53,12 @@ authors:
     external-image: false
     picture: assets/images/james.jpg
     twitter: jamesfoster
-
+  rexma:
+    name: Rex MA
+    bio: A Man wanna to google
+    external-image: false
+    picture: assets/images/profile.jpg
+    
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
