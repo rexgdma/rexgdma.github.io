@@ -7,9 +7,9 @@ headerImage: false
 tag:
 - markdown
 - elements
-star: true
+
 category: blog
-author: rex ma
+author: johndoe
 description: 浅谈时间复杂度
 ---
 
