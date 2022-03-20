@@ -1,5 +1,5 @@
 ---
-title: "浅谈时间复杂度"
+title: "算法-浅谈时间复杂度"
 layout: post
 date: 2022-03-19 22:22
 image: /assets/images/markdown.jpg
@@ -10,7 +10,7 @@ tag:
 
 category: blog
 author: rexma
-description: 浅谈时间复杂度
+description: 算法-浅谈时间复杂度
 ---
 
 ### 时间复杂度
